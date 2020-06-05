@@ -6,6 +6,5 @@ Terza riga
 
 Quarta riga
 
-Quinta riga
 
 
