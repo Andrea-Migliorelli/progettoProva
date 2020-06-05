@@ -8,7 +8,4 @@ Quarta riga
 
 Quinta riga
 
-Sesta Riga
-
-
 
