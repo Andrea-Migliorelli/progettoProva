@@ -1,7 +1,4 @@
 Prima riga
 
-Seconda riga
-
-
 
 
