@@ -2,7 +2,6 @@ Prima riga
 
 Seconda riga
 
-Terza riga
 
 
 
