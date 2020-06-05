@@ -1,3 +1,1 @@
 Prima riga
-
-seconda
