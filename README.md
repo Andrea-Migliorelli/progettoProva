@@ -10,8 +10,5 @@ Quinta riga
 
 Sesta Riga
 
-Settima Riga
-
-
 
 
