@@ -12,6 +12,6 @@ Sesta Riga
 
 Settima Riga
 
-Ottava Riga
+
 
 
