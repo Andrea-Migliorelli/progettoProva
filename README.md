@@ -14,5 +14,4 @@ Settima Riga
 
 Ottava Riga
 
-Nona riga
 
