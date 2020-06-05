@@ -16,4 +16,3 @@ Ottava Riga
 
 Nona riga
 
-Decima Riga
